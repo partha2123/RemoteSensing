@@ -1,5 +1,7 @@
-#step1: Load Libraries
+#Code credit: Dr. Venki Uddameri
+#Help taken from: ChatGPT and Copilot
 
+#step1: Load Libraries
 library(terra) 
 library(gdata)
 library(corrplot)
